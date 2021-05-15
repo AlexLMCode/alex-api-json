@@ -1,0 +1,129 @@
+{
+  "data": {
+    "name": "Alex Lujan",
+    "profession": "FrontEnd Developer",
+    "address": "Veracruz, Mexico.",
+    "email": "alexlujanmerino@hotmail.com",
+    "website": "www.github.com/alexlmcode",
+    "phone": "2721865024",
+    "avatar": "https://arepa.s3.amazonaws.com/melissa.jpg",
+    "Profile": "Enjoy the little things, I love cats and computers, videogames, cooking and programming enthusiast :D. HTML, CSS and JS my main tools for creating amazing things!",
+    "certificate": [
+      {
+        "date": "Mar 2020",
+        "description": "I completed the front end developer course to achieve new acknowledgment in CSS and HTML",
+        "institution": "Platzi",
+        "name": "FrontEnd Developer",
+        "profile": "https://platzi.com/p/AlexCode/"
+      },
+      {
+        "date": "Ago 2020",
+        "description": "I completed the vuejs course to understand javascript and vue better.",
+        "institution": "Platzi",
+        "name": "Vuejs 2 course",
+        "profile": "https://platzi.com/p/AlexCode/"
+      },
+      {
+        "date": "Present",
+        "description": "In my frontendmentor profile I made some webpages",
+        "institution": "FrontendMentor",
+        "name": "Websites",
+        "profile": "https://www.frontendmentor.io/profile/AlexLMCode"
+      },
+      {
+        "date": "Feb 2020",
+        "description": "I pass the EXAVER exam that certifies my english level A2",
+        "institution": "Universidad Veracrizama",
+        "name": "EXAVER 1",
+        "profile": "https://www.exaver.com/"
+      }
+    ],
+    "Academic": [
+      {
+        "degree": "Lic. Sistemas Computacionales Administrativos",
+        "description": "La licenciatura me permitira adquirir conocimientos base para mi carrera profesional sobre sistemas y administracion.",
+        "endDate": "2022",
+        "institution": "Universidad Veracruzana",
+        "startDate": "Jan 2019"
+      },
+      {
+        "degree": "Tecnico en Recursos Humanos",
+        "description": "En mis estudios previos a la universidad, consegui el certificado de tecnico en recursos humanos.",
+        "endDate": "Dec 2018",
+        "institution": "CBTIS #268",
+        "startDate": "Jan 2016"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Freelance",
+        "endDate": "Jun 2020",
+        "jobDescription": "I made a website using Nuxtjs for a law firm in Veracruz, Mex.",
+        "jobTitle": "Frontend",
+        "startDate": "Mar 2020"
+      },
+      {
+        "company": "Freelance",
+        "endDate": "Present",
+        "jobDescription": "Doing websites in frontendmentor, that can be used in different types of business.",
+        "jobTitle": "Frontend",
+        "startDate": "Sept 2019"
+      }
+    ],
+    "skills": [
+      {
+        "name": "HTML5",
+        "percentage": "80%"
+      },
+      {
+        "name": "CSS",
+        "percentage": "55%"
+      },
+      {
+        "name": "JavaScript",
+        "percentage": "65%"
+      },
+      {
+        "name": "React",
+        "percentage": "65%"
+      }
+    ],
+    "interest": [
+      "javascript",
+      "develop",
+      "vuejs",
+      "frontend",
+      "design",
+      "create",
+      "innovate"
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "percentage": "90%"
+      },
+      {
+        "name": "English",
+        "percentage": "45%"
+      }
+    ],
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://facebook.com/"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/"
+      }
+    ]
+  }
+}
